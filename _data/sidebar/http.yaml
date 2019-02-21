@@ -20,7 +20,7 @@
   items:
       - url: /docs/http/CFDP_Upload/
       - url: /docs/http/CFDP_Download/
-      - url: /docs/http/CFDP_List_Path/
+      - url: /docs/http/CFDP_List/
       - url: /docs/http/CFDP_Get_Info/
       - url: /docs/http/CFDP_Cancel/
       - url: /docs/http/CFDP_Delete/

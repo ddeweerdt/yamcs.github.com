@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /docs/http/CFDP_List_Path/
+permalink: /docs/http/CFDP_List/
 sidebar: yes
 ---
 Get the contents of a path on the remote CFDP entity, using the CFDP protocol:
