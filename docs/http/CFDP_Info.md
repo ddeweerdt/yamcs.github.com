@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /docs/http/CFDP_Get_Info/
+permalink: /docs/http/CFDP_Info/
 sidebar: yes
 ---
 Get info on one, multiple or all ongoing and/or finished/cancelled CFDP transfers:
