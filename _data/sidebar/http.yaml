@@ -16,6 +16,14 @@
       - url: /docs/http/List_Objects/
       - url: /docs/http/Get_Object/
       - url: /docs/http/Delete_Object/
+- url: /docs/http/CFDP/
+  items:
+      - url: /docs/http/CFDP_Upload/
+      - url: /docs/http/CFDP_Download/
+      - url: /docs/http/CFDP_List_Path/
+      - url: /docs/http/CFDP_Get_Info/
+      - url: /docs/http/CFDP_Cancel/
+      - url: /docs/http/CFDP_Delete/
 - url: /docs/http/Clients/
   items:
     - url: /docs/http/List_Clients/
