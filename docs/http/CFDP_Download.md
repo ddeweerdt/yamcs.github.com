@@ -39,7 +39,7 @@ If the bucketName is <tt>user.username</tt> then a bucket will be created automa
 
 ```json
 {
-  "transfer_id": 1
+  "transferId": 1
 }
 ```
 

@@ -42,6 +42,6 @@ Upload, using the CFDP protocal, an object from a bucket to a remote CFDP entity
 
 ```json
 {
-  "transfer_id": 1
+  "transferId": 1
 }
 ```

@@ -30,6 +30,6 @@ The ongoing transfer will be aborted, the partially uploaded/downloaded file is 
 
 ```json
 {
-  "cancelled_transfers": [3, 5, 9] 
+  "cancelledTransfers": [3, 5, 9] 
 }
 ```

@@ -30,7 +30,7 @@ Get the contents of a path on the remote CFDP entity, using the CFDP protocol:
 
 ```json
 {
-  "remote_path": "a/remote/path",
+  "remotePath": "a/remote/path",
   "items": [ {
 	"name": "a_file",
 	"isDirectory": False

@@ -34,32 +34,32 @@ Get info on one, multiple or all ongoing and/or finished/cancelled CFDP transfer
 ```json
 {
   "transfers": [ {
-	"transfer_id": 1,
-  	"instance_name": "my_instance",
-  	"bucket_name": "my_bucket",
-  	"object_name": "my_object",
-  	"remote_filepath": "a/remote/path/filename",
-  	"upload_download": "upload",
+	"transferId": 1,
+  	"instanceName": "my_instance",
+  	"bucketName": "my_bucket",
+  	"objectName": "my_object",
+  	"remoteFilepath": "a/remote/path/filename",
+  	"uploadDownload": "upload",
   	"completion": "49%",
   	"state": "ongoing, stalled"
   },
   {
-	"transfer_id": 2,
-	"instance_name": "my_instance",
-	"bucket_name": "some_bucket",
-	"object_name": "some_object",
-	"remote_filepath": "a/remote/path/other_filename",
-	"upload_download": "download",
+	"transferId": 2,
+	"instanceName": "my_instance",
+	"bucketName": "some_bucket",
+	"objectName": "some_object",
+	"remoteFilepath": "a/remote/path/other_filename",
+	"uploadDownload": "download",
 	"completion": "5%",
 	"state": "finished, aborted"
   },
   {
-	"transfer_id": 3,
-	"instance_name": "my_instance",
-	"bucket_name": "some_bucket",
-	"object_name": "some_object",
-	"remote_filepath": "a/remote/path/other_filename",
-	"upload_download": "download",
+	"transferId": 3,
+	"instanceName": "my_instance",
+	"bucketName": "some_bucket",
+	"objectName": "some_object",
+	"remoteFilepath": "a/remote/path/other_filename",
+	"uploadDownload": "download",
 	"completion": "100%",
 	"state": "finished, completed"
   }
